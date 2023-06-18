@@ -1,10 +1,8 @@
 <style>
 body {
   background-color: powderblue;
-  color: black;
 }
 </style>
-<hr>
 
 <h1 align="center">SoftUni Courses:</h1>
 
