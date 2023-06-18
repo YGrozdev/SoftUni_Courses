@@ -1,0 +1,3 @@
+123 note
+edit from GNU nano 6.2
+end

@@ -1,0 +1,15 @@
+F:\WORK\QA\2. QA Soft tehnolog\2. 11.05.23\SimpleCalc\bin\Debug\net6.0\SimpleCalc.exe
+F:\WORK\QA\2. QA Soft tehnolog\2. 11.05.23\SimpleCalc\bin\Debug\net6.0\SimpleCalc.deps.json
+F:\WORK\QA\2. QA Soft tehnolog\2. 11.05.23\SimpleCalc\bin\Debug\net6.0\SimpleCalc.runtimeconfig.json
+F:\WORK\QA\2. QA Soft tehnolog\2. 11.05.23\SimpleCalc\bin\Debug\net6.0\SimpleCalc.dll
+F:\WORK\QA\2. QA Soft tehnolog\2. 11.05.23\SimpleCalc\bin\Debug\net6.0\SimpleCalc.pdb
+F:\WORK\QA\2. QA Soft tehnolog\2. 11.05.23\SimpleCalc\obj\Debug\net6.0\SimpleCalc.csproj.AssemblyReference.cache
+F:\WORK\QA\2. QA Soft tehnolog\2. 11.05.23\SimpleCalc\obj\Debug\net6.0\SimpleCalc.GeneratedMSBuildEditorConfig.editorconfig
+F:\WORK\QA\2. QA Soft tehnolog\2. 11.05.23\SimpleCalc\obj\Debug\net6.0\SimpleCalc.AssemblyInfoInputs.cache
+F:\WORK\QA\2. QA Soft tehnolog\2. 11.05.23\SimpleCalc\obj\Debug\net6.0\SimpleCalc.AssemblyInfo.cs
+F:\WORK\QA\2. QA Soft tehnolog\2. 11.05.23\SimpleCalc\obj\Debug\net6.0\SimpleCalc.csproj.CoreCompileInputs.cache
+F:\WORK\QA\2. QA Soft tehnolog\2. 11.05.23\SimpleCalc\obj\Debug\net6.0\SimpleCalc.dll
+F:\WORK\QA\2. QA Soft tehnolog\2. 11.05.23\SimpleCalc\obj\Debug\net6.0\refint\SimpleCalc.dll
+F:\WORK\QA\2. QA Soft tehnolog\2. 11.05.23\SimpleCalc\obj\Debug\net6.0\SimpleCalc.pdb
+F:\WORK\QA\2. QA Soft tehnolog\2. 11.05.23\SimpleCalc\obj\Debug\net6.0\SimpleCalc.genruntimeconfig.cache
+F:\WORK\QA\2. QA Soft tehnolog\2. 11.05.23\SimpleCalc\obj\Debug\net6.0\ref\SimpleCalc.dll
