@@ -1,0 +1,43 @@
+
+GordenL@DESKTOP-50Q2956 MINGW64 ~
+$ cd e:
+
+GordenL@DESKTOP-50Q2956 MINGW64 /e
+$ dir
+$RECYCLE.BIN  D-cii\ KPKONPI  gorden  SoftUni_Courses  System\ Volume\ Information
+
+GordenL@DESKTOP-50Q2956 MINGW64 /e
+$ git clone https://github.com/SUContent/Git-Clone.git
+Cloning into 'Git-Clone'...
+remote: Enumerating objects: 19, done.
+remote: Counting objects: 100% (19/19), done.
+remote: Compressing objects: 100% (17/17), done.
+remote: Total 19 (delta 7), reused 3 (delta 1), pack-reused 0
+Receiving objects: 100% (19/19), 5.58 KiB | 816.00 KiB/s, done.
+Resolving deltas: 100% (7/7), done.
+
+GordenL@DESKTOP-50Q2956 MINGW64 /e
+$ dir
+$RECYCLE.BIN  D-cii\ KPKONPI  Git-Clone  gorden  SoftUni_Courses  System\ Volume\ Information
+
+GordenL@DESKTOP-50Q2956 MINGW64 /e
+$ cd g
+Git-Clone/ gorden/
+
+GordenL@DESKTOP-50Q2956 MINGW64 /e
+$ cd Git-Clone/
+
+GordenL@DESKTOP-50Q2956 MINGW64 /e/Git-Clone (main)
+$ dir
+exam-console-app.js  exercise-exam-func.js  LICENSE  README.md
+
+GordenL@DESKTOP-50Q2956 MINGW64 /e/Git-Clone (main)
+$ ls
+exam-console-app.js  exercise-exam-func.js  LICENSE  README.md
+
+GordenL@DESKTOP-50Q2956 MINGW64 /e/Git-Clone (main)
+$ node exercise-exam-func.js
+The distance between point1 and point2 is: 5
+
+GordenL@DESKTOP-50Q2956 MINGW64 /e/Git-Clone (main)
+$
