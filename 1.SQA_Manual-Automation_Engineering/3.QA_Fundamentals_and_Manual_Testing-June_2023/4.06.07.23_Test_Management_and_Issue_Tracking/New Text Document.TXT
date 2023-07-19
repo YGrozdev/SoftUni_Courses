@@ -1,0 +1,16 @@
+
+1. Create TestRail Account
+You get a free TestRail trial version here.
+Note: When your trial expires, you can use disposable mail services such as https://temp-mail.org/en/, 
+https://tempmailo.com/, https://www.disposablemail.com/ to create a new one.
+
+
+TestRail:
+First and Last Name: Dan Danov
+e-mail: rehel60794@lukaat.com
+Company name: TestRailGira
+Country: Bulgaria
+web address: binmlikjjj123
+pass: TestRaiGira18@@<>
+TestRailToken:
+ATATT3xFfGF0WWxB682iVXo7hCwj6AGNfbjMDPKG1b9DgglU3a1DWwCJ4M-jaiOEQk37RDmtwnJ0ehBAdhmF-MpAgASnIpln92Lt4cZ2NH9K5CLlemlmPcZaVdMdoFAJ-NBmAz7TAXBjNO_xkS639_4BiDCDI0G_6V9xDdlzkT30taBy6TtrS1U=B430354D
